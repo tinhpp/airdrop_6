@@ -1,0 +1,326 @@
+[
+    {
+        "symbol": "ankrETH",
+        "name": "Ankr Staked ETH",
+        "address": "0xff8069906C1BdD7650c889f54639a5fcE486ca3e",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/13403/large/aETHc.png?1696513165"
+    },
+    {
+        "symbol": "APE",
+        "name": "ApeCoin",
+        "address": "0x6bAA318CF7C51C76e17ae1EbE9Bbff96AE017aCB",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png"
+    },
+    {
+        "symbol": "BAL",
+        "name": "Balancer",
+        "address": "0x660edb0A46c3f69be9eFF5446318593b9469F9e2",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/11683/large/Balancer.png?1696511572"
+    },
+    {
+        "symbol": "LINK",
+        "name": "ChainLink Token",
+        "address": "0x5B16228B94b68C7cE33AF2ACc5663eBdE4dCFA2d",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"
+    },
+    {
+        "symbol": "DAI",
+        "name": "Dai Stablecoin",
+        "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+    },
+    {
+        "symbol": "DERI",
+        "name": "Deri",
+        "address": "0x4aCde18aCDE7F195E6Fb928E15Dc8D83D67c1f3A",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/13931/large/200vs200.jpg?1696513670"
+    },
+    {
+        "symbol": "DVF",
+        "name": "DeversiFi Token",
+        "address": "0x1f031f8c523b339c7a831355879e3568fa3eb263",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10759.png"
+    },
+    {
+        "symbol": "DSLA",
+        "name": "DSLA Protocol",
+        "address": "0x70359c1eeB98eb3D12eE7178359a4541ff11Cc8E",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5423.png"
+    },
+    {
+        "symbol": "FXS",
+        "name": "Frax Share",
+        "address": "0x0A79e44c99505c7f388CA30c787ff97217E73ecC",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png"
+    },
+    {
+        "symbol": "GNO",
+        "name": "Gnosis Token",
+        "address": "0xe516a5CFf996cc399EFBb48355FD5Ab83438E7a9",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png"
+    },
+    {
+        "symbol": "GRAI",
+        "name": "Gravita Debt Token",
+        "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25337.png"
+    },
+    {
+        "symbol": "HAPI",
+        "name": "HAPI Protocol",
+        "address": "0x0e5F2ee8C29e7eBc14e45dA7FF90566d8c407dB7",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8567.png"
+    },
+    {
+        "symbol": "iZi",
+        "name": "izumi Token",
+        "address": "0xa5d4117511938c71615d5b714B7E58c04C112D16",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/21791/large/izumi-logo-symbol.png?1696521144"
+    },
+    {
+        "symbol": "KNC",
+        "name": "Kyber Network Crystal v2",
+        "address": "0x3b2F62d42DB19B30588648bf1c184865D4C3B1D6",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9444.png"
+    },
+    {
+        "symbol": "LDO",
+        "name": "Lido DAO Token",
+        "address": "0x0e076AAFd86a71dCEAC65508DAF975425c9D0cB6",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png"
+    },
+    {
+        "symbol": "LXP",
+        "name": "Linea XP",
+        "address": "0xd83af4fbd77f3ab65c3b1dc4b38d7e67aecf599a",
+        "decimals": 18,
+        "logoURI": "https://linea.build/favicon-32x32.png"
+    },
+    {
+        "symbol": "LINA",
+        "name": "Linear Token",
+        "address": "0x974aFBd15Ad987dB9336F4Ac10d35a4FF32e31C5",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12509/large/1649227343-linalogo200px.png?1696512324"
+    },
+    {
+        "symbol": "LUBE",
+        "name": "LUBE",
+        "address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
+        "decimals": 18,
+        "logoURI": "https://pbs.twimg.com/profile_images/1725003585157787648/4nbkBLVA_400x400.jpg"
+    },
+    {
+        "symbol": "LBR",
+        "name": "Lybra Finance",
+        "address": "0x9D36f49D3d42B3A9BcC0f5Ac76fF8ef78fB2bC01",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24700.png"
+    },
+    {
+        "symbol": "MAI",
+        "name": "Mai Stablecoin",
+        "address": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png"
+    },
+    {
+        "symbol": "MKR",
+        "name": "Maker",
+        "address": "0x2442Bd7AE83b51F6664De408A385375fe4a84F52",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png"
+    },
+    {
+        "symbol": "MATIC",
+        "name": "Matic Token",
+        "address": "0xe742f157d65355d51c6Df82f04A703F3081c3e81",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png?1696505277"
+    },
+    {
+        "symbol": "PEEL",
+        "name": "Meta Apes Peel",
+        "address": "0xA6eb75B11b36FB9175fB94C5b96959879A26C2A8",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21013.png"
+    },
+    {
+        "symbol": "XMT",
+        "name": "MetalSwap",
+        "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15006.png"
+    },
+    {
+        "symbol": "USDP",
+        "name": "Pax Dollar",
+        "address": "0xd2bc272EA0154A93bf00191c8a1DB23E67643EC5",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png"
+    },
+    {
+        "symbol": "PEPE",
+        "name": "Pepe",
+        "address": "0x7da14988E4f390C2E34ed41DF1814467D3aDe0c3",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png"
+    },
+    {
+        "symbol": "SCM",
+        "name": "ScamFari",
+        "address": "0x13a7f090d46c74acba98c51786a5c46ed9a474f0",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27863.png"
+    },
+    {
+        "symbol": "SNT",
+        "name": "SENET",
+        "address": "0x663B43Bd9aC6E45461A73b2115eEFd7278383f20",
+        "decimals": 18
+    },
+    {
+        "symbol": "SHIB",
+        "name": "SHIBA INU",
+        "address": "0x99AD925C1Dc14Ac7cc6ca1244eeF8043C74E99d5",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14341.png"
+    },
+    {
+        "symbol": "SIDUS",
+        "name": "SIDUS",
+        "address": "0x536e731a8Ae166173D8875Ad55567B00F264b7b4",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/21401/large/SIDUS_coin_logo.png?1696520765"
+    },
+    {
+        "symbol": "SCR",
+        "name": "SOCURE",
+        "address": "0xb6489De309cb0b37fce5821D99F7300451eE6F68",
+        "decimals": 18
+    },
+    {
+        "symbol": "STONE",
+        "name": "Stone Liquidity Ether Token",
+        "address": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116",
+        "decimals": 18,
+        "logoURI": "https://static.shieldex.io/stone/stone-3.svg"
+    },
+    {
+        "symbol": "SIS",
+        "name": "Symbiosis",
+        "address": "0x6EF95B6f3b0F39508e3E04054Be96D5eE39eDE0d",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15084.png"
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+        "decimals": 6,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+        "symbol": "RUNE",
+        "name": "THORChain ETH.RUNE",
+        "address": "0xe322E20738386766F769b0a6083f4141083d26d0",
+        "decimals": 18
+    },
+    {
+        "symbol": "UNI",
+        "name": "Uniswap",
+        "address": "0x636B22bC471c955A8DB60f28D4795066a8201fa3",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+    },
+    {
+        "symbol": "USK",
+        "name": "US KUMA Interest Bearing Token",
+        "address": "0xC84f2ce21272f17d92d2a450F1C8567bF0ff448E",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27290.png"
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+        "decimals": 6,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    {
+        "symbol": "USD+",
+        "name": "USD+",
+        "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+        "decimals": 6,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20317.png"
+    },
+    {
+        "symbol": "USDLR",
+        "name": "USDLR by Stable",
+        "address": "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917",
+        "decimals": 6,
+        "logoURI": "https://storage.googleapis.com/public.withstable.com/logos/usdlr/dark-circle.png"
+    },
+    {
+        "symbol": "USDT+",
+        "name": "USDT+",
+        "address": "0x1E1F509963A6D33e169D9497b11c7DbFe73B7F13",
+        "decimals": 6,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24962.png"
+    },
+    {
+        "symbol": "SCM-ETH-VLP",
+        "name": "Velocore LP: SCM + ETH",
+        "address": "0x6729659F4D81DdbD6Ac48ddDA9C5D62c01081B5D",
+        "decimals": 18
+    },
+    {
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+        "decimals": 8,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+    },
+    {
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
+    },
+    {
+        "symbol": "wstETH",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12409.png"
+    },
+    {
+        "symbol": "XFIT",
+        "name": "XFai",
+        "address": "0x8C56017B172226fE024dEa197748FC1eaccC82B1",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9217.png"
+    },
+    {
+        "symbol": "Ŀ",
+        "name": "ԼІΝЕА",
+        "address": "0x6807857Ab19c24e1a8f4B73453C477E1B59a5854",
+        "decimals": 18
+    }
+]

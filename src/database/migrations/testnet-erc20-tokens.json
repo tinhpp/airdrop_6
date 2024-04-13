@@ -1,0 +1,126 @@
+[
+	{
+		"address": "0xD2340c4ec834bf43c05B9EcCd60EeD3a20892Dcc",
+		"name": "APE",
+		"symbol": "APE",
+		"decimals": 18,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png"
+	},
+	{
+		"address": "0x5471ea8f739dd37E9B81Be9c5c77754D8AA953E4",
+		"name": "Test BNB",
+		"symbol": "tBNB",
+		"decimals": 18,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+	},
+	{
+		"address": "0xeEfF322f4590A1A84BB3486d4BA0038669A811aD",
+		"name": "Test DOGE",
+		"symbol": "tDOGE",
+		"decimals": 18,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+	},
+	{
+		"address": "0x6F03052743CD99ce1b29265E377e320CD24Eb632",
+		"name": "HOP",
+		"symbol": "HOP",
+		"decimals": 18,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20547.png"
+	},
+	{
+		"address": "0xcAA61BCAe7D37Fe9C33c0D8671448254eef44D63",
+		"name": "Matic",
+		"symbol": "MATIC",
+		"decimals": 18,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+	},
+	{
+		"address": "0x7823e8dcc8bfc23ea3ac899eb86921f90e80f499",
+		"name": "Uniswap",
+		"symbol": "UNI",
+		"decimals": 18,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+	},
+	{
+		"address": "0xf56dc6695cF1f5c364eDEbC7Dc7077ac9B586068",
+		"name": "Test USD Coin",
+		"symbol": "tUSDC",
+		"decimals": 18,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+	},
+	{
+		"address": "0x1990BC6dfe2ef605Bfc08f5A23564dB75642Ad73",
+		"name": "Test USD Tether",
+		"symbol": "tUSDT",
+		"decimals": 6,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+	},
+	{
+		"address": "0x347b29EFca2f921fFc776Cdc01AF785f043368c6",
+		"name": "USD Tether",
+		"symbol": "USDT",
+		"decimals": 6,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+	},
+	{
+		"address": "0xDbcd5BafBAA8c1B326f14EC0c8B125DB57A5cC4c",
+		"name": "Wrapped Bitcoin",
+		"symbol": "WBTC",
+		"decimals": 18,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+	},
+	{
+		"address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+		"name": "Wrapped Ethereum",
+		"symbol": "WETH",
+		"decimals": 18,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
+	},
+	{
+		"address": "0xbe2C5113EebFe4C083da31346534CEA1cd2bBC46",
+		"name": "Ethereum",
+		"symbol": "ETH",
+		"decimals": 18,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+	},
+	{
+		"address": "0xc1888F2Dc85A9C51F2f3f13fAaB5C06077bB235f",
+		"name": "Binance Coin",
+		"symbol": "BNB",
+		"decimals": 8,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/1839.png"
+	},
+	{
+		"address": "0xEc6BC0023a2607B88D8E0F3A67a5210d7BDb7534",
+		"name": "USD Coin",
+		"symbol": "USDC",
+		"decimals": 8,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+	},
+	{
+		"address": "0x42472dB3d10d5AA6dE423F876CA555f803eF8ADD",
+		"name": "DOGE Coin",
+		"symbol": "DOGE",
+		"decimals": 8,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+	},
+	{
+		"address": "0x8B57916D9C0a6D97422590eF545Dd721cF46734b",
+		"name": "Shiba Coin",
+		"symbol": "SHIB",
+		"decimals": 8,
+		"logoURI": "https://cryptologos.cc/logos/shiba-inu-shib-logo.png"
+	},
+	{
+		"address": "0x85030dBAAc0739312dC9983363ca57E22A3AA2C1",
+		"name": "Flash Token",
+		"symbol": "FLASH",
+		"decimals": 18
+	},
+	{
+		"address": "0x9E48B10A010d0AF0217c63aef50589B10C0d1128",
+		"name": "xFlash Token",
+		"symbol": "xFLASH",
+		"decimals": 18
+	}
+]
